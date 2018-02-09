@@ -1,4 +1,4 @@
-#React/Redux/Router Boilerplate
+## React/Redux/Router Boilerplate
 
 ## Getting Started
 
