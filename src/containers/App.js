@@ -20,11 +20,14 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        Hello {this.props.name}
-        <br/>
-        <input type="text" ref="username" placeholder="name"/>
-        <br/>
-        <button onClick={this.setUserName.bind(this)}>Test Action</button>
+        <h1>Hello World</h1>
+        <div className="reduxdemo">
+            Redux Demo
+            <input type="text" ref="username" placeholder="name"/>
+            <br/>
+            <button onClick={this.setUserName.bind(this)}>Add Name</button>
+            <div>{this.props.name}</div>
+        </div>
       </div>
     );
   }
