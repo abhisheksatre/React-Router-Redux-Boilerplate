@@ -1,6 +1,9 @@
 ## React with Router,Redux,Sass Boilerplate
 
-Start your next react redux project in seconds🔥
+![Logo of the project](https://raw.githubusercontent.com/abhisheksatre/React-Router-Redux-Boilerplate/master/public/banner.jpg)
+
+
+Start your next react redux project in seconds.
 
 To get started, first install all the necessary dependencies.
 ```
