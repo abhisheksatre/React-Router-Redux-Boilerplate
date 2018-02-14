@@ -1,6 +1,6 @@
 ## React with Router,Redux,Sass Boilerplate
 
-![Logo of the project](https://raw.githubusercontent.com/abhisheksatre/React-Router-Redux-Boilerplate/master/public/banner.jpg)
+![Logo of the project](https://raw.githubusercontent.com/abhisheksatre/React-Router-Redux-Boilerplate/master/public/banner-new.jpg)
 
 
 Start your next react redux project in seconds.
